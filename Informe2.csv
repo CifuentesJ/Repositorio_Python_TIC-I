@@ -1,0 +1,31 @@
+REFERENCIA,NOMBRE,PRECIO,IVA,TOTAL,CATEGORIA
+Ref001,Te Dharamsala,54000,10260.0,64260.0,Bebidas
+Ref002,Cerveza tibetana Barley,57000,10830.0,67830.0,Bebidas
+Ref003,Sirope de regaliz,30000,5700.0,35700.0,Condimentos
+Ref004,Especias Cajun del chef Anton,66000,12540.0,78540.0,Condimentos
+Ref005,Mezcla Gumbo del chef Anton,64050,12169.5,76219.5,Condimentos
+Ref006,Mermelada de grosellas de la abuela,75000,14250.0,89250.0,Condimentos
+Ref007,Peras secas organicas del tio Bob,90000,17100.0,107100.0,Frutas/Verduras
+Ref008,Salsa de arandanos Northwoods,120000,22800.0,142800.0,Condimentos
+Ref009,Buey Mishi Kobe,291000,55290.0,346290.0,Carnes
+Ref010,Pez espada,93000,17670.0,110670.0,Pescado/Marisco
+Ref011,Queso Cabrales,63000,11970.0,74970.0,Lacteos
+Ref012,Queso Manchego La Pastora,114000,21660.0,135660.0,Lacteos
+Ref013,Algas Konbu,18000,3420.0,21420.0,Pescado/Marisco
+Ref014,Cuajada de judias,69750,13252.5,83002.5,Frutas/Verduras
+Ref015,Salsa de soja baja en sodio,46500,8835.0,55335.0,Condimentos
+Ref016,Postre de merengue Pavlova,52350,9946.5,62296.5,Reposteria
+Ref017,Cordero Alice Springs,117000,22230.0,139230.0,Carnes
+Ref018,Langostinos tigre Carnarvon,187500,35625.0,223125.0,Pescado/Marisco
+Ref019,Pastas de te de chocolate,27600,5244.0,32844.0,Reposteria
+Ref020,Mermelada de Sir Rodney,243000,46170.0,289170.0,Reposteria
+Ref021,Bollos de Sir Rodney,30000,5700.0,35700.0,Reposteria
+Ref022,Pan de centeno crujiente estilo Gustaf's,63000,11970.0,74970.0,Granos/Cereales
+Ref023,Pan fino,27000,5130.0,32130.0,Granos/Cereales
+Ref024,Refresco Guarana Fantastica,13500,2565.0,16065.0,Bebidas
+Ref025,Crema de chocolate y nueces NuNuCa,42000,7980.0,49980.0,Reposteria
+Ref026,Ositos de goma Gumbar,93690,17801.1,111491.1,Reposteria
+Ref027,Chocolate Schoggi,131700,25023.0,156723.0,Reposteria
+Ref028,Col fermentada Rossle,136800,25992.0,162792.0,Frutas/Verduras
+Ref029,Salchicha Thuringer,371370,70560.3,441930.3,Carnes
+Ref030,Arenque blanco del noroeste,77670,14757.3,92427.3,Pescado/Marisco

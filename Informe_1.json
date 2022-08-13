@@ -1,0 +1,42 @@
+[
+    {
+        "CATEGORIA": "Bebidas",
+        "SUMATORIA": 124500.0,
+        "CANTIDAD": 3
+    },
+    {
+        "CATEGORIA": "Carnes",
+        "SUMATORIA": 779370.0,
+        "CANTIDAD": 3
+    },
+    {
+        "CATEGORIA": "Condimentos",
+        "SUMATORIA": 401550.0,
+        "CANTIDAD": 6
+    },
+    {
+        "CATEGORIA": "Frutas/Verduras",
+        "SUMATORIA": 296550.0,
+        "CANTIDAD": 3
+    },
+    {
+        "CATEGORIA": "Granos/Cereales",
+        "SUMATORIA": 90000.0,
+        "CANTIDAD": 2
+    },
+    {
+        "CATEGORIA": "Lacteos",
+        "SUMATORIA": 177000.0,
+        "CANTIDAD": 2
+    },
+    {
+        "CATEGORIA": "Pescado/Marisco",
+        "SUMATORIA": 376170.0,
+        "CANTIDAD": 4
+    },
+    {
+        "CATEGORIA": "Reposteria",
+        "SUMATORIA": 620340.0,
+        "CANTIDAD": 7
+    }
+]
